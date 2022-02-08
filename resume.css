@@ -1,0 +1,39 @@
+body {
+  font-family: "Arial";
+  text-align: center;
+}
+img {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid black;
+}
+#main-heading {
+  background-color: #e2e2e2;
+  padding: 5px;
+}
+.section-title {
+  text-transform: uppercase;
+}
+.table {
+  display: table;
+  margin: 0 auto;
+}
+ul#horizontal-list {
+  min-width: 696px;
+  list-style:none;
+  padding-top: 20px;
+}
+ul#horizontal-list li {
+  display: inline;
+}
+.heading {
+  background-color: #efefef;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  display: table;
+  margin: 10px auto;
+}
