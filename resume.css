@@ -26,7 +26,7 @@ ul#horizontal-list {
   list-style:none;
   padding-top: 20px;
 }
-ul#horizontal-list li {
+ul#horizontal-list {
   display: inline;
 }
 .heading {
