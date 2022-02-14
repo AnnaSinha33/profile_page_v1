@@ -37,3 +37,13 @@ ul#horizontal-list {
   display: table;
   margin: 10px auto;
 }
+a.github {
+  background-image: url(images/github.svg);
+  }
+a.github {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10px;
+  height: 10px;
+  }
